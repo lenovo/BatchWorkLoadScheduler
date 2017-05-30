@@ -12,9 +12,9 @@ wl.py    -- Generate workload
 
 Test run:
 1. edit the workload profile at wl.py, then generate workload
-     # python wl.py 
+     $ python wl.py 
 2. run different scheduling algorithm and then compare the result
-     # python ga.py
-     # python ll.py
-     # python ml.py
+     $ python ga.py
+     $ python ll.py
+     $ python ml.py
 
